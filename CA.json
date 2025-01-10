@@ -6,7 +6,7 @@
       "properties": { "name": "Point A" },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4194, 37.7749]  // San Francisco, CA
+        "coordinates": [-122.4194, 37.7749]
       }
     },
     {
@@ -14,7 +14,7 @@
       "properties": { "name": "Point B" },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2437, 34.0522]  // Los Angeles, CA
+        "coordinates": [-118.2437, 34.0522]
       }
     },
     {
@@ -22,7 +22,7 @@
       "properties": { "name": "Point C" },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1611, 32.7157]  // San Diego, CA
+        "coordinates": [-117.1611, 32.7157]
       }
     }
   ]
